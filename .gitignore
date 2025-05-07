@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+*.log
+training_data/
+models/
+*.pkl
+*.h5
+
+# OS specific
+.DS_Store
+Thumbs.db
+*.db
+
+# Large files (already handled by Git LFS)
+# shape_predictor_68_face_landmarks.dat is tracked by Git LFS
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+
+# Media files
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
