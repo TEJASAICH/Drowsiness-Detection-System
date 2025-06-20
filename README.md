@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tejas
+# 👋 Hi, I'm Tejasai
 
 ## 🚀 About Me
 I'm a passionate developer working on computer vision and machine learning projects. Currently, I'm focused on developing real-time drowsiness detection systems to enhance road safety.
